@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 -->
 
 #### My GitHub stats📈:
-![Mushahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=mushahidq&count_private=true&show_icons=true&title_color=1f6feb&text_color=58a6ff&hide_border=true&icon_color=da3633&bg_color=0d1117)
-![Mushahid's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mushahidq&langs_count=10&hide=Jupyter%20Notebook&layout=compact&count_private=true&show_icons=true&title_color=1f6feb&text_color=58a6ff&hide_border=true&icon_color=da3633&bg_color=0d1117)
+![Mushahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=mushahidq&count_private=true&show_icons=true&title_color=58a6ff&text_color=c9d1d9&hide_border=true&icon_color=da3633&bg_color=0d1117)
+![Mushahid's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mushahidq&langs_count=10&hide=Jupyter%20Notebook&layout=compact&count_private=true&show_icons=true&title_color=58a6ff&text_color=c9d1d9&hide_border=true&icon_color=da3633&bg_color=0d1117)
