@@ -68,7 +68,7 @@ I'm Mohammed Mushahid Qureshi👨‍💻 and welcome to ~Jurrasic Park~ my GitHu
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-plain.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ### my blog posts:
-**[Identifying Colours in Images using Python and OpenCV](https://dev.to/mushahidq/identifying-colours-in-images-using-python-and-opencv-4g3j)**
+**[Identifying Colours in Images using Python and OpenCV](https://dev.to/mushahidq/identifying-colours-in-images-using-python-and-opencv-4g3j)** <br />
 **[Better web scraping using headless instance of Chrome](https://dev.to/mushahidq/better-web-scraping-using-headless-instance-of-chrome-82e)**
 
 ### github stats📈:
