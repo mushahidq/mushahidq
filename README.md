@@ -72,5 +72,5 @@ I'm Mohammed Mushahid Qureshi👨‍💻 and welcome to ~Jurrasic Park~ my GitHu
 **[Better web scraping using headless instance of Chrome](https://dev.to/mushahidq/better-web-scraping-using-headless-instance-of-chrome-82e)**
 
 ### github stats📈:
-![Mushahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=mushahidq&count_private=true&show_icons=true&title_color=58a6ff&text_color=c9d1d9&hide_border=true&icon_color=da3633&bg_color=0d1117)
-![Mushahid's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mushahidq&langs_count=10&hide=Jupyter%20Notebook&layout=compact&count_private=true&show_icons=true&title_color=58a6ff&text_color=c9d1d9&hide_border=true&icon_color=da3633&bg_color=0d1117)
+[![Mushahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=mushahidq&count_private=true&show_icons=true&title_color=58a6ff&text_color=c9d1d9&hide_border=true&icon_color=da3633&bg_color=0d1117)](https://github.com/mushahidq)
+[![Mushahid's Most Used Languages](https://github-readme-stats-ten-lyart.vercel.app/api/top-langs/?username=mushahidq&langs_count=10&hide=Jupyter%20Notebook&layout=compact&count_private=true&show_icons=true&title_color=58a6ff&text_color=c9d1d9&hide_border=true&icon_color=da3633&bg_color=0d1117)](https://github.com/mushahidq)
