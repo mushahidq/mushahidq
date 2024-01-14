@@ -40,6 +40,7 @@ I'm Mohammed Mushahid Qureshi👨‍💻 and welcome to ~Jurrasic Park~ my GitHu
 - 🔭 I’m currently working on an object recognition app with labels in Indian languages, a Super Mario64 Clone but Mario is a programmer and an AR app to teach programming and also on my [command line portfolio](https://mushahidq.github.io/portfolio-cli/).
 - 🌱 I’m currently learning Rust, React.js, HelmetJS
 - 💬 Ask me about movies, tv shows, books especially mysteries and sci-fi, video games or anything that comes to mind.
+- Looking to collaborate on open source projects
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Unlike most programmers who get annoyed when people who are not from any tech related fields or older people ask for their help with small tasks, I genuinely like helping them because they do not know as much about technologies as we do.
 
