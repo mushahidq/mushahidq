@@ -33,8 +33,7 @@ I'm Mohammed Mushahid Qureshi👨‍💻 and welcome to ~Jurrasic Park~ my GitHu
 [![Linkedin: anmol](https://img.shields.io/badge/-mushahidq-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mushahidq/)](https://www.linkedin.com/in/mushahidq/)
 [![GitHub followers](https://img.shields.io/github/followers/mushahidq?label=Follow&style=social)](https://github.com/mushahidq/?tab=follow)
 [![CLI- Portfolio](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://mushahidq.github.io/portfolio-cli/)](https://mushahidq.github.io/portfolio-cli/)
-[![Portfolio(WIP)](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://mushahidq.github.io/portfolio-cli/)](https://elderly-battle-supernova.glitch.me/
-)
+[Portfolio(WIP)](https://elderly-battle-supernova.glitch.me/)
 
 ### a little about me:
 
