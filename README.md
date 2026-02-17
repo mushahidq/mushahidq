@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-![](https://visitor-badge.glitch.me/badge?page_id=mushahidq.mushahidq)
+![](https://vbr.nathanchung.dev/badge?page_id=mushahidq.mushahidq&color=55acb7&style=for-the-badge&logo=Github&text=Visitors)
 
 
 Unfortunately I'm not a jedi master, I'm just a curious guy.<br>
