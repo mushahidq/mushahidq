@@ -32,17 +32,16 @@ I'm Mohammed Mushahid Qureshi👨‍💻 and welcome to ~Jurrasic Park~ my GitHu
 [![Twitter Follow](https://img.shields.io/twitter/follow/mushahidq?label=Follow)](https://twitter.com/intent/follow?screen_name=mushahidq)
 [![Linkedin: anmol](https://img.shields.io/badge/-mushahidq-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mushahidq/)](https://www.linkedin.com/in/mushahidq/)
 [![GitHub followers](https://img.shields.io/github/followers/mushahidq?label=Follow&style=social)](https://github.com/mushahidq/?tab=follow)
-[![CLI- Portfolio](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://mushahidq.github.io/portfolio-cli/)](https://mushahidq.github.io/portfolio-cli/)
-[Portfolio](https://mushahidq.github.io/)
+[![Portfolio](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://mushahidq.github.io/)](https://mushahidq.github.io/)
 
 ### a little about me:
 
-- 🔭 I’m currently working on an object recognition app with labels in Indian languages, a Super Mario64 Clone but Mario is a programmer and an AR app to teach programming and also on my [command line portfolio](https://mushahidq.github.io/portfolio-cli/).
-- 🌱 I’m currently learning Rust, React.js, HelmetJS
+- 🔭 I’m currently enrolled in Master of Science (Computer Science) at the University of Calgary.
 - 💬 Ask me about movies, tv shows, books especially mysteries and sci-fi, video games or anything that comes to mind.
 - Looking to collaborate on open source projects
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Unlike most programmers who get annoyed when people who are not from any tech related fields or older people ask for their help with small tasks, I genuinely like helping them because they do not know as much about technologies as we do.
+- Check out my command line portfolio ([CLI- Portfolio](https://mushahidq.github.io/portfolio-cli/)) (Last updated approx 3 years ago)
 
 ### some technologies I work with:
 
